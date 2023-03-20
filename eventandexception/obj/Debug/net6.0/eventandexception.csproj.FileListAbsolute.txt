@@ -1,0 +1,15 @@
+C:\Users\BhaskarK\eventandexception\obj\Debug\net6.0\eventandexception.csproj.AssemblyReference.cache
+C:\Users\BhaskarK\eventandexception\obj\Debug\net6.0\eventandexception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BhaskarK\eventandexception\obj\Debug\net6.0\eventandexception.AssemblyInfoInputs.cache
+C:\Users\BhaskarK\eventandexception\obj\Debug\net6.0\eventandexception.AssemblyInfo.cs
+C:\Users\BhaskarK\eventandexception\obj\Debug\net6.0\eventandexception.csproj.CoreCompileInputs.cache
+C:\Users\BhaskarK\eventandexception\bin\Debug\net6.0\eventandexception.exe
+C:\Users\BhaskarK\eventandexception\bin\Debug\net6.0\eventandexception.deps.json
+C:\Users\BhaskarK\eventandexception\bin\Debug\net6.0\eventandexception.runtimeconfig.json
+C:\Users\BhaskarK\eventandexception\bin\Debug\net6.0\eventandexception.dll
+C:\Users\BhaskarK\eventandexception\bin\Debug\net6.0\eventandexception.pdb
+C:\Users\BhaskarK\eventandexception\obj\Debug\net6.0\eventandexception.dll
+C:\Users\BhaskarK\eventandexception\obj\Debug\net6.0\refint\eventandexception.dll
+C:\Users\BhaskarK\eventandexception\obj\Debug\net6.0\eventandexception.pdb
+C:\Users\BhaskarK\eventandexception\obj\Debug\net6.0\eventandexception.genruntimeconfig.cache
+C:\Users\BhaskarK\eventandexception\obj\Debug\net6.0\ref\eventandexception.dll

@@ -1,0 +1,15 @@
+C:\Users\BhaskarK\expand\bin\Debug\net6.0\expand.exe
+C:\Users\BhaskarK\expand\bin\Debug\net6.0\expand.deps.json
+C:\Users\BhaskarK\expand\bin\Debug\net6.0\expand.runtimeconfig.json
+C:\Users\BhaskarK\expand\bin\Debug\net6.0\expand.dll
+C:\Users\BhaskarK\expand\bin\Debug\net6.0\expand.pdb
+C:\Users\BhaskarK\expand\obj\Debug\net6.0\expand.csproj.AssemblyReference.cache
+C:\Users\BhaskarK\expand\obj\Debug\net6.0\expand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BhaskarK\expand\obj\Debug\net6.0\expand.AssemblyInfoInputs.cache
+C:\Users\BhaskarK\expand\obj\Debug\net6.0\expand.AssemblyInfo.cs
+C:\Users\BhaskarK\expand\obj\Debug\net6.0\expand.csproj.CoreCompileInputs.cache
+C:\Users\BhaskarK\expand\obj\Debug\net6.0\expand.dll
+C:\Users\BhaskarK\expand\obj\Debug\net6.0\refint\expand.dll
+C:\Users\BhaskarK\expand\obj\Debug\net6.0\expand.pdb
+C:\Users\BhaskarK\expand\obj\Debug\net6.0\expand.genruntimeconfig.cache
+C:\Users\BhaskarK\expand\obj\Debug\net6.0\ref\expand.dll
